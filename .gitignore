@@ -1,2 +1,3 @@
 
 iac/terraform.exe
+/iac/kube_config.yaml
